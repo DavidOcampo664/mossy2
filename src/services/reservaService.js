@@ -1,4 +1,4 @@
-import api from '@/api'
+import api from 'http://localhost:3000/'
 
 export default {
   async createReservation(reservationData) {
